@@ -11,3 +11,6 @@ class Boat(*args):
     # display feature
     def display(self):
         print("model:", self.model)
+        
+    def display2(self):
+        print("model:", self.model)
