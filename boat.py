@@ -14,3 +14,9 @@ class Boat(*args):
         
     def display2(self):
         print("model:", self.model)
+
+    def display3(self):
+        print("model:", self.model)
+        
+    def display4(self):
+        print("model:", self.model)
